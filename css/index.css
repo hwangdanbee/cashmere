@@ -112,8 +112,8 @@ width: calc(100% / 3); padding: 0 10px;
 
 #cont_02 article{width: 1200px; margin: 0 auto; padding: 80px 0 60px;}
 
-#cont_02 article:nth-child(1){background: #aaffff;}
-#cont_02 article:nth-child(2){background: #ffffaa; border-top: 1px solid #d3d3d3;}
+#cont_02 article:nth-child(1){}
+#cont_02 article:nth-child(2){border-top: 1px solid #d3d3d3;}
 
 #cont_02 article .title{}
 #cont_02 article .title h2{font-size: 36px; color:#373735; line-height: 40px; text-align: center;}
